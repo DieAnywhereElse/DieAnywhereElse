@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://files.catbox.moe/rkm8wv.png">
+<img align="center" alt="Coding" width="400" src="https://files.catbox.moe/rkm8wv.png">
 
 <!--
 **DieAnywhereElse/DieAnywhereElse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
